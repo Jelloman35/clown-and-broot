@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/yolojoe/spaceland/mopw_zmb_brute_mascot_mask"
+	"$bumpmap" "models/yolojoe/spaceland/mopw_zmb_brute_mascot_mask_n"
+	"$selfillum" "1"
+}

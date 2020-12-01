@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/yolojoe/spaceland/mopw_character_park_clown_zombie_shoes"
+	"$bumpmap" "models/yolojoe/spaceland/mopw_character_park_clown_zombie_shoes_n"
+	"$phong" "1"
+	"$phongboost" "2"
+	"$phongexponent" "20"
+	$phongfresnelranges "[.3 .65 10]"
+}
